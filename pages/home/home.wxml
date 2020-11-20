@@ -1,4 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class="title">helloworld</text>
 <button size="mini">按钮</button>
-<image src="http://www.inpscreen.com/adminstr/UploadFile/%E6%96%AD%E7%94%B52019-15-25(14157).jpg"></image>
+<image src=""></image>
